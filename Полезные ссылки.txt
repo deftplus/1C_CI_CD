@@ -1,3 +1,7 @@
+https://learngitbranching.js.org/?locale=ru_RU
+
+https://infostart.ru/1c/articles/310640/
+
 https://its.1c.ru/db/metod8dev/content/5937/hdoc
 
 https://voblachke.ru/blog/1c-edt-git-vygruzka-rasshirenija-konfiguracii-v-repozitorij/
