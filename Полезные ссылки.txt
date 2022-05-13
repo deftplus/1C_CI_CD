@@ -11,3 +11,6 @@ https://github.com/xDrivenDevelopment/
 https://expert.chistov.pro/public/273126/
 
 https://github.com/oscript-library/gitsync
+
+https://infostart.ru/public/1070720/
+Переводим рутину ручного тестирования 1C на рельсы Jenkins-а и ADD
