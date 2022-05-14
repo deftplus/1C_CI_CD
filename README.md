@@ -1,1 +1,1 @@
-https://images.app.goo.gl/29xEXqP72yEj4Ai98
+Hi there, I'am Xxxx Xxxxx 👋 Certified by AWS, Google Cloud, Microsoft, HashiCorp, LPI
