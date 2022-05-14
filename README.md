@@ -1,1 +1,1 @@
-# 1C_CI_CD
+https://images.app.goo.gl/29xEXqP72yEj4Ai98
